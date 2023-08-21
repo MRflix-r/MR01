@@ -747,7 +747,7 @@ select {
   .header {
     /* border: 2px solid green; */
     width: 100%;
-    padding: 35px;
+    padding: 30px;
   }
 
   .header h1 {
